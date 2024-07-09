@@ -1,0 +1,22 @@
+.board {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 1px solid #000;
+    margin: 20px auto;
+  }
+  
+  .snake-dot {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-color: green;
+  }
+  
+  .food-dot {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-color: red;
+  }
+  
